@@ -1,0 +1,12 @@
+[project]
+name = "global-health-statistics-explorer"
+version = "0.1.0"
+requires-python = ">=3.9,<3.13"
+
+dependencies = [
+  "pandas",
+  "shiny",
+  "shinywidgets",
+  "plotly",
+  "faicons"
+]

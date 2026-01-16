@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\franc\\Desktop\\LINKEDIN\\Global Health Statistics Explorer - App",
+        "app_url": "https://francisb1207.shinyapps.io/global_health_statistics_explorer/",
+        "app_id": "16308910",
+        "app_guid": null,
+        "title": "Global Health Statistics Explorer",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
